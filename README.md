@@ -2,8 +2,8 @@
 
 https://nemutas.github.io/glsl-report2/
 
-<img src='https://github.com/nemutas/glsl-report2/assets/46724121/3afba705-9999-444d-9018-a64f007fdee1' alt='' width='700' />
+<img src='https://github.com/nemutas/glsl-report2/assets/46724121/6338ea23-66ed-4278-93e2-c519695d2106' alt='' width='700' />
 
-# Reference
+# Requirement
 
-- [【Ae実践】高品質なグリッチ・ノイズ表現の作り方【動画師の心得】](https://www.youtube.com/watch?v=zyRCDYmO1VQ)
+<img src='https://github.com/nemutas/glsl-report2/assets/46724121/64dd5c0c-e138-4b4c-a150-51b23636f40f' alt='' width='700' />
