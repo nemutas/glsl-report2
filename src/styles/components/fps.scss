@@ -1,0 +1,17 @@
+@use '../mixins/media.scss' as *;
+
+.fps {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+
+  font-size: max(1.5rem, 15px);
+  color: #fff;
+  opacity: 0.2;
+
+  @include sp {
+    top: 2rem;
+    left: 2rem;
+    font-size: min(3rem, 15px);
+  }
+}

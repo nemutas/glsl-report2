@@ -1,0 +1,7 @@
+@use 'ress';
+@use './imports.scss';
+@use './global.scss';
+// components
+@use './components/link.scss';
+@use './components/fps.scss';
+@use './components/canvas.scss';

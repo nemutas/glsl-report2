@@ -1,0 +1,27 @@
+{
+  "name": "glsl-report2",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/three": "^0.156.0",
+    "autoprefixer": "^10.4.15",
+    "prettier": "^3.0.3",
+    "ress": "^5.0.2",
+    "sass": "^1.67.0",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5",
+    "vite-plugin-glsl": "^1.1.2"
+  },
+  "dependencies": {
+    "gsap": "^3.12.2",
+    "lil-gui": "^0.18.2",
+    "three": "^0.156.1"
+  }
+}
